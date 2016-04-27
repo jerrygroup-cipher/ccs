@@ -23,3 +23,8 @@ git push
 add branches:
 git push origin master
 
+
+dev env:
+pyqt4: https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.11.4/
+eric6: https://sourceforge.net/projects/eric-ide/files/eric6/stable/6.1.4/
+
